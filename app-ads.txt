@@ -1,5 +1,3 @@
 google.com, pub-5496344227467269, DIRECT, f08c47fec0942fa0
-
-# === Pangle PLATFORM ===
+google.com, pub-5496344227467269, DIRECT, c4e0e3d3ad97330d
 pangle.com, 8858259, DIRECT
-
